@@ -12,16 +12,16 @@ This app is connected to a PostgreSQL database.
 
 ## What I used
 
-###Front-end: 
+### Front-end: 
 HTML, CSS, JavaScript, React
 
-###Back-end: 
+### Back-end: 
 Node.js, Express.js
 
-###Database: 
+### Database: 
 PostgreSQL
 
-###Other: 
+### Other: 
 Knex, Bcrypt
 
 ## What I learned
