@@ -1,6 +1,9 @@
 # SmartBrain-api - v2
 Final project for ZTM course
 
+## Gif Demo
+![face bot](Readme/facebot-gif.gif)
+
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
